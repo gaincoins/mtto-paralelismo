@@ -1,0 +1,4 @@
+ven_mtto/
+.env
+*.log
+__pycache__/
